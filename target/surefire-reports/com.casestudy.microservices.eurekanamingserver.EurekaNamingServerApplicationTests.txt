@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.casestudy.microservices.eurekanamingserver.EurekaNamingServerApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 44.445 s - in com.casestudy.microservices.eurekanamingserver.EurekaNamingServerApplicationTests
